@@ -1,2 +1,2 @@
 #comment
-print("Whats up!")
+print("Whats up dude!")
